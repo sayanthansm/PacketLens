@@ -14,3 +14,6 @@ protocol decoding, and traffic analysis actually work under the hood.
 - Python
 - Raw sockets / pcap
 - Linux
+
+## Progress (Flowchart Representation)
+<img width="619" height="140" alt="image" src="https://github.com/user-attachments/assets/5733a4ed-e006-4373-9266-25dc66926205" />
