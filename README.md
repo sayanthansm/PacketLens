@@ -16,5 +16,6 @@ protocol decoding, and traffic analysis actually work under the hood.
 - Linux
 
 ## Progress (Flowchart Representation)
-<img width="567" height="109" alt="image" src="https://github.com/user-attachments/assets/22da928f-91e4-479c-b29b-eae358e62ec2" />
+<img width="750" height="119" alt="image" src="https://github.com/user-attachments/assets/7171ebd5-6b6d-4926-977a-f76ebc98997c" />
+
 
