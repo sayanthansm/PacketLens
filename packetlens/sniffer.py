@@ -52,5 +52,5 @@ def print_summary(captured):
 
 def capturer_start():
     print("Starting capture")
-    sniff(prn=print_summary, store=False, count=10)
+    sniff(prn=print_summary, store=False)
     
